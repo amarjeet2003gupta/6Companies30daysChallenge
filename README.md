@@ -6,5 +6,7 @@ In this repo I am uploading my solutions for [6Companies30Days](https://www.yout
 Company Name : Microsoft
 [Link](https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit)
 
+<p>2. Day 6-10 :</p>
+
 Company Name : Goldman Sachs
 [Link](https://docs.google.com/document/d/1jkVKWPcOAE2Xjt7GFLV-M8N50HygZpWcO26REFa7dZM/edit)
